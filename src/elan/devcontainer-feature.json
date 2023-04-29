@@ -1,0 +1,12 @@
+{
+  "id": "elan",
+  "version": "0.0.1",
+  "name": "Elan",
+  "documentationURL": "https://github.com/loag/lean-feature",
+  "description": "Installs elan version manager for lean",
+  "options": {},
+  "mounts": [],
+  "installsAfter": [
+      "ghcr.io/devcontainers/features/common-utils"
+  ]
+}
